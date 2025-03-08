@@ -28,8 +28,7 @@ body{
 }
 
 .days {
-  background: #eeeeee;
-  
+  background: #EF2F3C;
 }
 
 .hours {
@@ -38,13 +37,11 @@ body{
 }
 
 .minutes {
-  background: #eeeeee;
-  
+  background: #276FBF;
 }
 
 .seconds {
-  background: #eeeeee;
-  
+  background: #F0A202;
 }
 
 .numbers {
